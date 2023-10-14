@@ -1,5 +1,4 @@
-Question : Check if the input is pangram or not. (A pangram is a sentence that contains all the 
-alphabets from A to Z)
+Question : Check if the input is pangram or not. (A pangram is a sentence that contains all the alphabets from A to Z)
 
 Firstly, Lets Understand the Question in detail : A pangram is a sentence that uses every letter of the alphabet at least once.
 For example, "The quick brown fox jumps over the lazy dog" is a pangram because it contains all the letters from A to Z. Now, We need to check if a given sentence includes all 26 letters of the English alphabet
