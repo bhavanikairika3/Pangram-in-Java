@@ -1,3 +1,4 @@
+```html
 Question : Check if the input is pangram or not. (A pangram is a sentence that contains all the alphabets from A to Z)
 
 Firstly, Lets Understand the Question in detail : A pangram is a sentence that uses every letter of the alphabet at least once.
